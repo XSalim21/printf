@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 0x11. C - printf
 =======
 # 0x11. C - printf - By Salim 
@@ -46,5 +46,5 @@ A collaborative project by ALX Software Engineering to implement the inbuilt `pr
 
 # Author
 
-- Salim  - [Github]((https://github.com/XSalim21)
->>>>>>> a4b8812f5bef8acd515ac6a399aa4ab21f0970a1
+- Salim  - [Github](https://github.com/XSalim21)
+
